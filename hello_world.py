@@ -1,8 +1,5 @@
 '''
-My first code. 
-
-@author JGraham
-created 25/06/19
+Greets the world 
 '''
 import datetime
 current_time = datetime.datetime.now()
