@@ -4,6 +4,6 @@ Remote change - testing fetch & merge.
 
 It has been forked into CefasRepRes.
 
-Test non-conflicting change.
+Test detached commit... non-conflicting change.
 
 Testing commit on HPC. 
