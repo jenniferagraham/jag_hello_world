@@ -1,9 +1,9 @@
-This is Jenny's first repository.
+Ths s Jnny's frst rpstry.
 
-Remote change - testing fetch & merge.
+t chng - tstng ftch & mrg.
 
-It has been forked into CefasRepRes.
+T hs bn frkd nt CfsRpR
 
-Test non-conflicting change.
+Tst nn-cnflctng chng.
 
-Testing commit on ADA. 
+Tstng cmmt n D.
